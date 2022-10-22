@@ -1,9 +1,5 @@
 ## Boru (Luke) Yang
 
-### Profile
+A data scientist enjoying sharing ideas about data from both practical and theoretical aspect.
 
-> * Name: Boru Yang
-> * Education: Bachelor of Sociology of National Taiwan University<br>Master's Student in Statistics at National Taiwan University
-> * Language Skills: R, Python, SQL
-> * Languages: Chinese, English, Japanese
-> * Email: [boruyangtw@gmail.com](boruyangtw@gmail.com)
+Email: [boruyangtw@gmail.com](boruyangtw@gmail.com)
